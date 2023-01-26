@@ -42,6 +42,11 @@ El proyecto consta de varios pasos críticos en su pipeline de procesamiento de 
 
 En resumen, el pipeline del proyecto se centra en limpiar y preparar los datos, entrenar y evaluar un modelo de Decision Tree Classifier, hacer predicciones y exportar los resultados en un formato adecuado.
 
+# Detalle de uso:
+Por inconvenientes con el tamaño de archivos y carpetas, solo se puede disponer en github de aquello justo y necesario para correr el proyeto
+considerando que la data fatante osea los archivos originales en formato parquet no estan debe crearse una carpeta en el mismo directorio del proyecto con los mismos
+## Esta carpeta debe llamarse 'Dataset_parket' una vez hecho estos al correr el archivo 'EDA.py' o el archivo 'EDA.ipynb' todos los demas directorios y archivos necesarios seran creados automaticamente.
+
 # Sobre EDA en el proyecto:
 El análisis exploratorio de los datos (EDA, por sus siglas en inglés) es una etapa crucial en cualquier proyecto de análisis de datos. En este proyecto, el EDA se enfocó en comprender el conjunto de datos que se utilizará para el entrenamiento del modelo. Esto incluyó la revisión de las columnas del conjunto de datos, el tipo de datos que contenían, la presencia de valores faltantes y la distribución de los datos.
 
