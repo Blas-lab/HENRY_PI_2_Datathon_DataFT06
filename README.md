@@ -1,8 +1,8 @@
 # HENRY_PI_2_Datathon_DataFT06
 
-# Datathon
+## Datathon
 
-## Descripción:
+# Descripción:
 Este proyecto tiene como objetivo predecir el precio de una propiedad en función de sus características. Se utiliza un modelo de clasificación de árboles de decisión para entrenar con los datos de entrenamiento y hacer predicciones en los datos de prueba.
 
 El archivo "train_clean.csv" contiene los datos de entrenamiento y "test_clean.csv" contiene los datos de prueba.
