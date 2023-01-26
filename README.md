@@ -46,6 +46,8 @@ En resumen, el pipeline del proyecto se centra en limpiar y preparar los datos, 
 Por inconvenientes con el tamaño de archivos y carpetas, solo se puede disponer en github de aquello justo y necesario para correr el proyeto
 considerando que la data faltante osea los archivos originales en formato parquet no estan debe crearse una carpeta en el mismo directorio del proyecto con los mismos
 ## Esta carpeta debe llamarse 'Dataset_parquet' una vez hecho estos al correr el archivo 'EDA.py' o el archivo 'EDA.ipynb' todos los demas directorios y archivos necesarios seran creados automaticamente.
+De haber cualquier problema se puede descargar el proyecto completo con tas sus dependencias en el siguiente link.
+https://drive.google.com/drive/folders/1-38tepUSLvTP1ixZ8Sd8aVsq7UuDudFL?usp=share_link
 
 # Sobre EDA en el proyecto:
 El análisis exploratorio de los datos (EDA, por sus siglas en inglés) es una etapa crucial en cualquier proyecto de análisis de datos. En este proyecto, el EDA se enfocó en comprender el conjunto de datos que se utilizará para el entrenamiento del modelo. Esto incluyó la revisión de las columnas del conjunto de datos, el tipo de datos que contenían, la presencia de valores faltantes y la distribución de los datos.
